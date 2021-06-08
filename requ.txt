@@ -3,3 +3,6 @@ this is chet application
 emoji
 Type opyion colors 
 vibrent
+
+dark mode
+video call
