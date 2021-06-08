@@ -6,3 +6,7 @@ vibrent
 
 dark mode
 video call
+
+payment options
+send money
+recived money
